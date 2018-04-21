@@ -1,0 +1,14 @@
+01.04.2018 12:38:42 [INFO] Обновление списка неиспользуемых для ввода и вывода монет для маркета livecoin успешно ["USD","NEO"]
+01.04.2018 12:39:05 [INFO] Успешная запись в базу 
+01.04.2018 12:39:05 [INFO] Первичная загрузка данных с livecoin успешна
+01.04.2018 12:40:32 [ERROR] Ошибка загрузки списка ордеров: {"name":"TypeError","message":"Cannot read property 'length' of undefined","stack":"TypeError: Cannot read property 'length' of undefined\n    at convert_livecoin_orders_to_db_format (c:\\Repos\\auto-trading\\livecoin\\livecoin_parse.js:121:31)\n    at Object.module.exports.getGraphByJson (c:\\Repos\\auto-trading\\livecoin\\livecoin_parse.js:186:66)\n    at livecoinApi.get_order_books.then (c:\\Repos\\auto-trading\\livecoin\\livecoin_module.js:446:48)"}
+01.04.2018 12:40:32 [ERROR] Произошла ошибка в выполнении программы либо был обновлен список монет, модуль будет перезапущен: {"name":"TypeError","message":"Cannot read property 'length' of undefined","stack":"TypeError: Cannot read property 'length' of undefined\n    at convert_livecoin_orders_to_db_format (c:\\Repos\\auto-trading\\livecoin\\livecoin_parse.js:121:31)\n    at Object.module.exports.getGraphByJson (c:\\Repos\\auto-trading\\livecoin\\livecoin_parse.js:186:66)\n    at livecoinApi.get_order_books.then (c:\\Repos\\auto-trading\\livecoin\\livecoin_module.js:446:48)"}
+01.04.2018 12:40:53 [INFO] Успешная запись в базу 
+01.04.2018 12:40:53 [INFO] Первичная загрузка данных с livecoin успешна
+01.04.2018 12:41:05 [INFO] Успешная запись в базу 
+01.04.2018 12:41:18 [INFO] Успешная запись в базу 
+01.04.2018 12:41:31 [INFO] Успешная запись в базу 
+01.04.2018 12:41:44 [INFO] Успешная запись в базу 
+01.04.2018 12:41:56 [INFO] Успешная запись в базу 
+01.04.2018 12:42:09 [INFO] Успешная запись в базу 
+01.04.2018 12:42:22 [INFO] Успешная запись в базу 

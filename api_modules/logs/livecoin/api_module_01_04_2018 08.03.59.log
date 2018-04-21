@@ -1,0 +1,2 @@
+01.04.2018 20:05:29 [INFO] Method: get_coin_info , Requests count: 4 , Average request time (ms): 2149
+01.04.2018 20:05:29 [INFO] Method: get_all_order_books , Requests count: 2 , Average request time (ms): 1033

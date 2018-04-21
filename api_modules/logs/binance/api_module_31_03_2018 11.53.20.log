@@ -1,0 +1,68 @@
+31.03.2018 23:54:50 [INFO] Method: get_coin_info , Requests count: 2 , Average request time (ms): 969
+31.03.2018 23:54:50 [INFO] Method: get_exchange_info , Requests count: 1 , Average request time (ms): 1241
+31.03.2018 23:54:50 [INFO] Method: get_order_book , Requests count: 572 , Average request time (ms): 624
+disconnect
+disconnect
+31.03.2018 23:56:20 [INFO] Method: get_order_book , Requests count: 601 , Average request time (ms): 641
+31.03.2018 23:56:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 1055
+disconnect
+31.03.2018 23:57:50 [INFO] Method: get_order_book , Requests count: 550 , Average request time (ms): 673
+31.03.2018 23:57:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 779
+disconnect
+31.03.2018 23:59:20 [INFO] Method: get_order_book , Requests count: 582 , Average request time (ms): 637
+31.03.2018 23:59:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 853
+disconnect
+01.04.2018 00:00:50 [INFO] Method: get_order_book , Requests count: 589 , Average request time (ms): 629
+01.04.2018 00:00:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 1016
+01.04.2018 00:02:20 [INFO] Method: get_order_book , Requests count: 590 , Average request time (ms): 608
+01.04.2018 00:02:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 931
+disconnect
+01.04.2018 00:03:50 [INFO] Method: get_order_book , Requests count: 596 , Average request time (ms): 622
+01.04.2018 00:03:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 1031
+01.04.2018 00:05:20 [INFO] Method: get_order_book , Requests count: 590 , Average request time (ms): 625
+01.04.2018 00:05:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 897
+01.04.2018 00:06:50 [INFO] Method: get_order_book , Requests count: 595 , Average request time (ms): 631
+01.04.2018 00:06:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 951
+disconnect
+01.04.2018 00:08:20 [INFO] Method: get_order_book , Requests count: 576 , Average request time (ms): 623
+01.04.2018 00:08:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 1330
+disconnect
+01.04.2018 00:09:50 [INFO] Method: get_order_book , Requests count: 590 , Average request time (ms): 637
+01.04.2018 00:09:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 1033
+disconnect
+01.04.2018 00:11:20 [INFO] Method: get_order_book , Requests count: 596 , Average request time (ms): 632
+01.04.2018 00:12:50 [INFO] Method: get_order_book , Requests count: 587 , Average request time (ms): 634
+01.04.2018 00:12:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 749
+01.04.2018 00:14:20 [INFO] Method: get_order_book , Requests count: 594 , Average request time (ms): 622
+01.04.2018 00:14:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 829
+01.04.2018 00:15:50 [INFO] Method: get_order_book , Requests count: 572 , Average request time (ms): 621
+01.04.2018 00:15:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 1053
+01.04.2018 00:17:20 [INFO] Method: get_order_book , Requests count: 586 , Average request time (ms): 619
+01.04.2018 00:17:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 891
+01.04.2018 00:18:50 [INFO] Method: get_order_book , Requests count: 589 , Average request time (ms): 604
+01.04.2018 00:18:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 859
+01.04.2018 00:20:20 [INFO] Method: get_order_book , Requests count: 577 , Average request time (ms): 621
+01.04.2018 00:20:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 991
+01.04.2018 00:21:50 [INFO] Method: get_order_book , Requests count: 588 , Average request time (ms): 641
+01.04.2018 00:21:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 856
+01.04.2018 00:23:20 [INFO] Method: get_order_book , Requests count: 590 , Average request time (ms): 635
+01.04.2018 00:23:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 918
+01.04.2018 00:24:50 [INFO] Method: get_order_book , Requests count: 594 , Average request time (ms): 617
+01.04.2018 00:24:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 833
+01.04.2018 00:26:20 [INFO] Method: get_order_book , Requests count: 575 , Average request time (ms): 623
+01.04.2018 00:26:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 996
+01.04.2018 00:27:50 [INFO] Method: get_order_book , Requests count: 585 , Average request time (ms): 622
+01.04.2018 00:29:20 [INFO] Method: get_order_book , Requests count: 583 , Average request time (ms): 629
+01.04.2018 00:29:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 1024
+01.04.2018 00:30:50 [INFO] Method: get_order_book , Requests count: 591 , Average request time (ms): 630
+01.04.2018 00:30:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 1022
+01.04.2018 00:32:20 [INFO] Method: get_order_book , Requests count: 585 , Average request time (ms): 644
+01.04.2018 00:32:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 1106
+01.04.2018 00:33:50 [INFO] Method: get_order_book , Requests count: 577 , Average request time (ms): 605
+01.04.2018 00:33:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 881
+disconnect
+01.04.2018 00:35:20 [INFO] Method: get_order_book , Requests count: 595 , Average request time (ms): 594
+01.04.2018 00:35:20 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 1017
+01.04.2018 00:36:50 [INFO] Method: get_order_book , Requests count: 592 , Average request time (ms): 595
+01.04.2018 00:36:50 [INFO] Method: get_coin_info , Requests count: 1 , Average request time (ms): 1684
+disconnect
